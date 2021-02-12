@@ -747,6 +747,8 @@
     cursor: pointer;
 }
 
+@media (max-width: 768px) {
+
 .logo__circle {
     position: absolute;
     margin-top: 13px;
