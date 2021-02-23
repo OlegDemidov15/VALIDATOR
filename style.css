@@ -74,7 +74,7 @@
 }
 
 .menu__item:hover {
-    opacity:.5s;
+    opacity:.5;
 }
 
 .menu__item:hover:after {
@@ -677,7 +677,7 @@
 .main__subtitle {
     margin-bottom: 37px;
     margin-top: 38px;
-    font: 947 18px/21px Roboto, arial, helvetica, sans-serif;
+    font: 947px 18px/21px Roboto, arial, helvetica, sans-serif;
 }
 
 .main__button {
@@ -898,7 +898,7 @@
 
 .main__subtitle {
     margin-bottom: 25px;
-    font: 950 16px/19px Roboto, arial, helvetica, sans-serif;
+    font: 950px 16px/19px Roboto, arial, helvetica, sans-serif;
     margin: 14px 64px;
 }
 
@@ -1005,10 +1005,12 @@ li {
     display: none;
 }
 
-#circle1  {
+#circle1 {
     display: none;
 }
 
 #circle2 {
     display: none;
+}
+}
 }
