@@ -677,7 +677,9 @@
 .main__subtitle {
     margin-bottom: 37px;
     margin-top: 38px;
-    font: 947px 18px/21px Roboto, arial, helvetica, sans-serif;
+    font-family: Roboto, arial, helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 900;
 }
 
 .main__button {
@@ -898,7 +900,9 @@
 
 .main__subtitle {
     margin-bottom: 25px;
-    font: 950px 16px/19px Roboto, arial, helvetica, sans-serif;
+    font-family: Roboto, arial, helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 900;
     margin: 14px 64px;
 }
 
